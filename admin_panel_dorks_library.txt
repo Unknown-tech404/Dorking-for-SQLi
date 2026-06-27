@@ -1,0 +1,1000 @@
+inurl:login/staff filetype:do
+inurl:cp filetype:php
+inurl:cpanel filetype:do
+intitle:"Sign In" inurl:cp
+intitle:"Administrator Portal" inurl:admin
+intitle:"Admin System" filetype:jsp
+inurl:/cp/index.do
+inurl:wp-admin/user filetype:html
+inurl:wp-admin filetype:do
+intitle:"Controlpanel Staff" filetype:jsp
+inurl:/manager/index.do
+inurl:auth/login
+intitle:"Backend Portal" filetype:jsp
+inurl:dashboard filetype:php
+inurl:admin/user filetype:cgi
+intitle:"Login Page" inurl:admin
+inurl:administrator/staff filetype:do
+intitle:"Administrator Staff" filetype:do
+intitle:"Dashboard System" filetype:aspx
+intitle:"Manage User" filetype:jsp
+intitle:"Authentication Required" inurl:wp-admin
+inurl:manager filetype:py
+intitle:"Authentication Required" inurl:dashboard
+intitle:"Administrator Portal" inurl:wp-admin
+intitle:"Auth Portal" filetype:aspx
+inurl:portal/secure filetype:do
+intitle:"Wp-admin Secure" filetype:do
+inurl:admin/session filetype:aspx
+intitle:"Login Portal" filetype:asp
+intitle:"Dashboard Login" inurl:auth
+intitle:"Login Portal" filetype:jsp
+inurl:portal/staff filetype:jsp
+inurl:portal/session filetype:py
+inurl:/manager/index.aspx
+inurl:manage filetype:php
+inurl:cpanel/portal filetype:aspx
+intitle:"Cpanel Secure" filetype:cgi
+inurl:/cpanel/index.html
+intitle:"Sign In" inurl:backend
+intitle:"Backend Portal" filetype:asp
+inurl:auth filetype:cgi
+inurl:controlpanel/config filetype:php
+inurl:portal/staff filetype:html
+intitle:"Login Session" filetype:aspx
+inurl:signin/system filetype:aspx
+inurl:/wp-admin/index.aspx
+intitle:"Sign In" inurl:manage
+intitle:"Admin Login" inurl:portal
+inurl:admin/system filetype:html
+inurl:/administrator/index.action
+intitle:"index of /" "controlpanel"
+intitle:"Wp-admin Session" filetype:jsp
+inurl:dashboard filetype:jsp
+inurl:controlpanel/config filetype:action
+intitle:"Backend System" filetype:cfm
+intitle:"Admin User" filetype:jsp
+inurl:administrator filetype:asp
+inurl:administrator/portal filetype:cfm
+inurl:login/session filetype:php
+inurl:manager/secure filetype:php
+intitle:"Login Page" intext:"password"
+inurl:/auth/index.action
+intitle:"Staff Portal Login" intext:"password"
+inurl:backend/portal filetype:asp
+intitle:"Signin User" filetype:html
+inurl:wp-admin/secure filetype:asp
+inurl:auth/staff filetype:aspx
+inurl:/login/index.action
+inurl:wp-admin filetype:html
+inurl:portal/secure filetype:cfm
+inurl:login.aspx -git -github
+inurl:/controlpanel/index.jsp
+inurl:manager/secure filetype:cfm
+inurl:wp-admin/staff filetype:aspx
+inurl:administrator/portal filetype:jsp
+inurl:auth/secure filetype:cfm
+intitle:"Cpanel Portal" filetype:cfm
+intitle:"Login System" filetype:action
+inurl:/auth/index.jsp
+intitle:"Dashboard Config" filetype:py
+inurl:/login/index.jsp
+intitle:"Auth Config" filetype:aspx
+intitle:"Manager System" filetype:php
+intitle:"Admin Login" inurl:dashboard
+intitle:"Admin Login" inurl:backend
+inurl:manager filetype:jsp
+intitle:"Manage Secure" filetype:php
+intitle:"Controlpanel System" filetype:aspx
+inurl:controlpanel filetype:jsp
+inurl:/manage/index.cgi
+inurl:auth filetype:py
+intitle:"Authentication Required" intext:"password"
+inurl:manager/session filetype:aspx
+intitle:"Dashboard Login" inurl:manager
+intitle:"Staff Portal Login" inurl:dashboard
+intitle:"Cpanel User" filetype:php
+intitle:"Signin Session" filetype:jsp
+inurl:/wp-admin/index.cfm
+inurl:/cpanel/index.aspx
+intitle:"Auth Secure" filetype:cgi
+intitle:"Controlpanel Config" filetype:py
+intitle:"Control Panel Login" inurl:auth
+intitle:"Dashboard System" filetype:html
+intitle:"Cpanel User" filetype:do
+inurl:/cpanel/index.py
+intitle:"Controlpanel System" filetype:html
+intitle:"Controlpanel Session" filetype:jsp
+inurl:admin/session filetype:jsp
+intitle:"Backend System" filetype:html
+inurl:auth/portal filetype:action
+inurl:dashboard filetype:html
+intitle:"Portal Staff" filetype:html
+inurl:administrator/user filetype:aspx
+inurl:/login/index.php
+inurl:/controlpanel/index.cgi
+inurl:manager/system filetype:jsp
+inurl:cp/secure filetype:do
+intitle:"Signin Session" filetype:action
+inurl:dashboard/login -git -github
+inurl:wp-admin/staff filetype:py
+inurl:admin filetype:cfm
+inurl:backend filetype:cfm
+intitle:"Controlpanel Config" filetype:do
+intitle:"Dashboard Login" inurl:admin
+intitle:"Manager User" filetype:aspx
+intitle:"Cp Portal" filetype:php
+inurl:dashboard/portal filetype:asp
+inurl:manage/system filetype:action
+inurl:manager/session filetype:html
+inurl:wp-admin filetype:asp
+inurl:admin/session filetype:py
+inurl:portal filetype:cgi
+inurl:cpanel/session filetype:cgi
+intitle:"Dashboard Secure" filetype:py
+inurl:wp-admin/secure filetype:jsp
+inurl:/backend/index.jsp
+intitle:"Controlpanel Secure" filetype:php
+inurl:/administrator/index.html
+inurl:dashboard filetype:do
+inurl:/backend/index.php
+intitle:"Auth Staff" filetype:py
+intitle:"Dashboard Secure" filetype:cfm
+inurl:cpanel/session filetype:asp
+inurl:/login/index.cfm
+inurl:administrator/portal filetype:py
+intitle:"Backend System" filetype:jsp
+intitle:"Signin Session" filetype:py
+inurl:cpanel filetype:cgi
+inurl:/admin/index.jsp
+inurl:cp filetype:py
+inurl:controlpanel/system filetype:cgi
+inurl:auth filetype:php
+intitle:"Cpanel System" filetype:py
+intitle:"Login Page" inurl:cpanel
+inurl:admin/config filetype:php
+intitle:"Staff Portal Login" inurl:manage
+intitle:"Controlpanel Config" filetype:php
+intitle:"Staff Portal Login" inurl:signin
+inurl:cp/portal filetype:php
+intitle:"Login Secure" filetype:cgi
+intitle:"Authentication Required" inurl:cp
+intitle:"Administrator Portal" inurl:portal
+inurl:cpanel/user filetype:cfm
+intitle:"Signin User" filetype:do
+intitle:"Cpanel Config" filetype:cgi
+intitle:"Admin Config" filetype:action
+inurl:cpanel/staff filetype:py
+inurl:manage/system filetype:cfm
+inurl:manage/staff filetype:cgi
+inurl:login filetype:aspx
+inurl:signin filetype:html
+intitle:"Auth Portal" filetype:action
+intitle:"Manager Session" filetype:asp
+intitle:"Login Config" filetype:cfm
+intitle:"Portal Portal" filetype:action
+inurl:/dashboard/index.cfm
+inurl:manager/html
+inurl:/manage/index.asp
+inurl:/cpanel/index.do
+intitle:"Dashboard Session" filetype:do
+intitle:"Manager Session" filetype:do
+intitle:"Administrator System" filetype:asp
+inurl:/wp-admin/index.php
+inurl:cp/secure filetype:action
+intitle:"Auth Config" filetype:html
+intitle:"Manage Portal" filetype:cfm
+intitle:"Admin Login" inurl:manage
+intitle:"Dashboard Config" filetype:asp
+inurl:backend filetype:action
+inurl:backend filetype:jsp
+intitle:"Auth Staff" filetype:php
+intitle:"Cp User" filetype:php
+inurl:/signin/index.py
+inurl:controlpanel/staff filetype:do
+intitle:"Dashboard Portal" filetype:cgi
+inurl:administrator/session filetype:aspx
+inurl:auth/session filetype:php
+inurl:dashboard/staff filetype:action
+intitle:"Manage System" filetype:cfm
+intitle:"Dashboard Config" filetype:cgi
+inurl:administrator/secure filetype:php
+intitle:"Signin Portal" filetype:php
+inurl:/auth/index.php
+inurl:cp/user filetype:action
+inurl:administrator/session filetype:html
+inurl:signin/session filetype:do
+inurl:auth/login -git -github
+inurl:/backend/index.html
+inurl:portal filetype:asp
+intitle:"Manager Config" filetype:html
+inurl:manager/session filetype:asp
+inurl:controlpanel/portal filetype:php
+inurl:portal filetype:do
+inurl:portal/user filetype:asp
+inurl:dashboard filetype:py
+inurl:admin/login -git -github
+inurl:/manage/index.aspx
+inurl:/admin/index.py
+inurl:dashboard/session filetype:action
+intitle:"Manager Session" filetype:cfm
+intitle:"Manage User" filetype:cgi
+intitle:"Portal Session" filetype:php
+inurl:backend filetype:py
+intitle:"Admin Staff" filetype:asp
+inurl:signin filetype:py
+inurl:signin/secure filetype:php
+inurl:cpanel/session filetype:cfm
+inurl:manage filetype:do
+intitle:"Dashboard User" filetype:action
+intitle:"Admin Login" inurl:administrator
+intitle:"index of" "parent directory" "admin"
+inurl:administrator/config filetype:action
+intitle:"Authentication Required" inurl:cpanel
+intitle:"Admin Config" filetype:cgi
+intitle:"Admin Login" inurl:wp-admin
+inurl:login/system filetype:action
+inurl:/signin/index.do
+intitle:"Manager Config" filetype:jsp
+inurl:/controlpanel/index.do
+intitle:"Manage Config" filetype:asp
+inurl:/manage/index.do
+intitle:"Cpanel User" filetype:action
+inurl:/signin/index.action
+intitle:"Manager Session" filetype:jsp
+inurl:controlpanel/secure filetype:py
+intitle:"Administrator Portal" filetype:py
+intitle:"Dashboard Portal" filetype:jsp
+intitle:"Administrator Session" filetype:jsp
+inurl:auth filetype:asp
+inurl:auth filetype:do
+inurl:/portal/index.aspx
+intitle:"Manager Session" filetype:html
+inurl:/backend/index.asp
+intitle:"Staff Portal Login"
+inurl:manager/session filetype:py
+inurl:manage/secure filetype:aspx
+intitle:"Dashboard Login" inurl:backend
+inurl:/administrator/index.do
+inurl:wp-admin/config filetype:cgi
+inurl:dashboard/config filetype:cgi
+inurl:login/session filetype:do
+intitle:"Login Session" filetype:php
+inurl:administrator filetype:cfm
+inurl:auth/config filetype:aspx
+intitle:"Sign In" inurl:dashboard
+intitle:"Control Panel Login" inurl:portal
+inurl:manager/config filetype:html
+intitle:"Administrator Secure" filetype:php
+inurl:auth/secure filetype:cgi
+inurl:dashboard/secure filetype:cfm
+intitle:"Admin User" filetype:cgi
+intitle:"Admin Login" inurl:cpanel
+inurl:/dashboard/index.cgi
+inurl:wp-admin/session filetype:jsp
+intitle:"Login System" filetype:aspx
+inurl:controlpanel/portal filetype:aspx
+inurl:manage filetype:cfm
+intitle:"Admin System" filetype:html
+inurl:auth/user filetype:aspx
+intitle:"Login Page" inurl:backend
+inurl:signin/config filetype:py
+inurl:controlpanel/user filetype:jsp
+inurl:cpanel/config filetype:cgi
+inurl:controlpanel/session filetype:jsp
+inurl:admin/session filetype:cgi
+inurl:cpanel filetype:aspx
+intitle:"Administrator User" filetype:jsp
+intitle:"Login Staff" filetype:jsp
+intitle:"Manage System" filetype:aspx
+inurl:/portal/index.do
+inurl:/signin/index.asp
+inurl:/controlpanel/index.py
+inurl:wp-admin/config filetype:action
+inurl:administrator/portal filetype:action
+intitle:"Manager Staff" filetype:action
+intitle:"Sign In" inurl:administrator
+inurl:secure/login -git -github
+inurl:manager/config filetype:php
+inurl:/manager/index.cgi
+intitle:"Cp System" filetype:asp
+inurl:administrator/user filetype:action
+intitle:"Control Panel Login" inurl:backend
+inurl:cpanel/config filetype:aspx
+intitle:"Cpanel Secure" filetype:php
+intitle:"Controlpanel Config" filetype:jsp
+inurl:cpanel/staff filetype:cfm
+intitle:"Administrator Portal" inurl:administrator
+inurl:login filetype:cfm
+inurl:cpanel filetype:php
+inurl:/manage/index.html
+intitle:"Portal Secure" filetype:cfm
+intitle:"Portal Staff" filetype:py
+intitle:"Administrator Portal" filetype:jsp
+intitle:"Admin Portal" filetype:aspx
+inurl:dashboard/system filetype:aspx
+intitle:"Sign In" inurl:portal
+inurl:signin/portal filetype:php
+intitle:"Signin Staff" filetype:jsp
+inurl:portal/secure filetype:action
+inurl:wp-admin/system filetype:aspx
+inurl:manage/secure filetype:php
+inurl:dashboard/user filetype:aspx
+inurl:manager/config filetype:jsp
+intitle:"Login Page" inurl:cp
+intitle:"Wp-admin User" filetype:jsp
+intitle:"Wp-admin Config" filetype:php
+inurl:wp-admin filetype:jsp
+intitle:"Auth System" filetype:do
+intitle:"Administrator Portal" inurl:cp
+inurl:/controlpanel/index.php
+inurl:/signin/index.html
+inurl:/admin/index.action
+intitle:"Dashboard User" filetype:do
+intitle:"Control Panel Login" inurl:wp-admin
+intitle:"Cpanel Config" filetype:php
+intitle:"Dashboard User" filetype:aspx
+inurl:admin filetype:html
+inurl:login/config filetype:php
+inurl:administrator filetype:cgi
+inurl:/cpanel/index.cgi
+inurl:auth/session filetype:py
+intitle:"Backend User" filetype:php
+intitle:"Manage Staff" filetype:asp
+intitle:"Signin Session" filetype:cfm
+inurl:signin/session filetype:cgi
+inurl:/backend/index.do
+intitle:"Staff Portal Login" inurl:portal
+inurl:controlpanel/session filetype:html
+intitle:"Wp-admin System" filetype:aspx
+inurl:admin/portal filetype:py
+inurl:manage filetype:asp
+inurl:manager filetype:do
+inurl:signin/user filetype:jsp
+inurl:cpanel/secure filetype:jsp
+inurl:/login/index.html
+inurl:wp-admin filetype:cgi
+inurl:login.aspx
+intitle:"Admin Portal" filetype:py
+intitle:"Signin Secure" filetype:html
+inurl:manage/config filetype:asp
+inurl:login/config filetype:cfm
+inurl:portal filetype:py
+inurl:wp-login.php
+intitle:"Sign In"
+inurl:wp-admin/secure filetype:do
+inurl:portal/config filetype:cfm
+inurl:administrator/staff filetype:py
+inurl:cpanel/user filetype:action
+inurl:/manager/index.jsp
+intitle:"Auth Config" filetype:cgi
+inurl:controlpanel/secure filetype:php
+intitle:"Login Page" inurl:manage
+intitle:"Administrator Session" filetype:aspx
+intitle:"Dashboard Login"
+inurl:/wp-admin/index.cgi
+inurl:/manager/index.asp
+intitle:"Controlpanel Staff" filetype:do
+intitle:"Sign In" inurl:signin
+inurl:backend filetype:html
+inurl:login/secure filetype:asp
+inurl:auth filetype:aspx
+intitle:"Cpanel Portal" filetype:aspx
+inurl:/manager/index.php
+inurl:manage filetype:html
+inurl:dashboard filetype:cgi
+intitle:"Signin Portal" filetype:jsp
+inurl:/manager/index.py
+intitle:"Controlpanel Config" filetype:html
+inurl:/administrator/index.asp
+inurl:dashboard/system filetype:html
+intitle:"Staff Portal Login" inurl:login
+inurl:cpanel
+inurl:portal filetype:aspx
+intitle:"Wp-admin Config" filetype:cgi
+intitle:"Login Secure" filetype:asp
+intitle:"Staff Portal Login" inurl:admin
+intitle:"Portal Staff" filetype:jsp
+intitle:"Administrator User" filetype:do
+inurl:backend/system filetype:cgi
+inurl:login filetype:py
+inurl:cpanel filetype:jsp
+inurl:signin/staff filetype:cgi
+intitle:"Backend Config" filetype:py
+inurl:/manage/index.py
+intitle:"Staff Portal Login" inurl:backend
+intitle:"Administrator User" filetype:aspx
+inurl:signin/session filetype:cfm
+inurl:dashboard/session filetype:html
+inurl:signin filetype:aspx
+intitle:"Administrator Config" filetype:action
+intitle:"Controlpanel User" filetype:jsp
+intitle:"Signin User" filetype:asp
+inurl:cpanel -git -github
+inurl:signin/staff filetype:jsp
+inurl:controlpanel/user filetype:cfm
+intitle:"Cpanel Config" filetype:aspx
+inurl:backend filetype:aspx
+intitle:"Portal Session" filetype:cgi
+intitle:"Dashboard Login" inurl:login
+inurl:controlpanel/portal filetype:cfm
+inurl:cp/portal filetype:cfm
+intitle:"Administrator Portal" filetype:action
+intitle:"Signin Staff" filetype:cgi
+inurl:login/session filetype:aspx
+inurl:portal filetype:html
+intitle:"Manage User" filetype:html
+inurl:/dashboard/index.php
+intitle:"Cpanel Staff" filetype:html
+inurl:portal/session filetype:php
+inurl:controlpanel filetype:asp
+intitle:"Authentication Required" inurl:backend
+intitle:"Administrator Portal" inurl:auth
+inurl:auth/config filetype:cgi
+intitle:"Dashboard Session" filetype:html
+intitle:"Administrator Session" filetype:html
+inurl:dashboard/portal filetype:do
+intitle:"Auth Session" filetype:py
+inurl:/cp/index.cfm
+inurl:manager/system filetype:php
+inurl:/wp-admin/index.jsp
+inurl:controlpanel filetype:py
+inurl:/signin/index.cfm
+inurl:/login/index.asp
+inurl:/administrator/index.cgi
+intitle:"Portal Config" filetype:aspx
+inurl:dashboard/session filetype:do
+inurl:administrator filetype:php
+inurl:/login/index.do
+intitle:"Sign In" inurl:auth
+inurl:/admin/index.cgi
+intitle:"Admin Login" inurl:manager
+inurl:auth/staff filetype:py
+intitle:"Dashboard Login" inurl:administrator
+inurl:/signin/index.aspx
+inurl:/admin/index.aspx
+inurl:auth/session filetype:jsp
+intitle:"Administrator Portal" inurl:cpanel
+intitle:"Login Config" filetype:php
+intitle:"Sign In" inurl:login
+intitle:"Manager System" filetype:jsp
+intitle:"Login Session" filetype:do
+intitle:"Cpanel Secure" filetype:jsp
+inurl:login/system filetype:aspx
+inurl:/dashboard/index.action
+inurl:login filetype:asp
+intitle:"Signin Config" filetype:py
+intitle:"Cp Staff" filetype:action
+intitle:"Auth Session" filetype:php
+inurl:controlpanel/system filetype:html
+inurl:wp-admin/config filetype:php
+intitle:"Wp-admin Secure" filetype:cfm
+intitle:"Cp Secure" filetype:jsp
+inurl:manage/user filetype:jsp
+intitle:"Manage Secure" filetype:aspx
+inurl:cpanel/system filetype:cfm
+inurl:manager/staff filetype:action
+inurl:administrator/session filetype:jsp
+inurl:/auth/index.py
+inurl:administrator/session filetype:do
+inurl:wp-admin/staff filetype:cfm
+intitle:"Admin Session" filetype:php
+inurl:manager filetype:cfm
+inurl:manager filetype:asp
+inurl:controlpanel/system filetype:asp
+intitle:"Signin Secure" filetype:cfm
+inurl:backend filetype:do
+inurl:administrator/user filetype:asp
+inurl:auth filetype:html
+inurl:manager/html -git -github
+inurl:manage filetype:action
+intitle:"Admin Session" filetype:aspx
+intitle:"Login Page" inurl:dashboard
+inurl:cpanel/portal filetype:do
+intitle:"Dashboard Login" inurl:manage
+intitle:"Administrator Portal" inurl:controlpanel
+inurl:wp-admin filetype:py
+inurl:administrator/index -git -github
+intitle:"Cpanel System" filetype:asp
+inurl:cpanel filetype:cfm
+inurl:administrator/user filetype:do
+intitle:"Cpanel Session" filetype:action
+inurl:/signin/index.php
+inurl:administrator/index
+inurl:cp filetype:aspx
+intitle:"Manager User" filetype:jsp
+inurl:dashboard/secure filetype:py
+inurl:controlpanel filetype:aspx
+intitle:"Login Page" inurl:manager
+inurl:signin/session filetype:action
+inurl:backend/session filetype:html
+intitle:"Dashboard Login" intext:"password"
+inurl:admin filetype:py
+intitle:"Dashboard Login" inurl:controlpanel
+inurl:/admin/index.do
+inurl:admin filetype:action
+inurl:portal filetype:php
+inurl:auth/system filetype:do
+inurl:cpanel filetype:html
+intitle:"Auth Staff" filetype:aspx
+inurl:/backend/index.cgi
+inurl:administrator filetype:do
+inurl:administrator/user filetype:html
+inurl:controlpanel filetype:do
+inurl:wp-admin/secure filetype:cfm
+inurl:login/portal filetype:asp
+intitle:"Auth Config" filetype:php
+intitle:"Sign In" inurl:manager
+intitle:"Sign In" inurl:wp-admin
+inurl:/administrator/index.cfm
+intitle:"Cp User" filetype:action
+intitle:"Manager User" filetype:do
+inurl:signin/secure filetype:do
+inurl:backend/system filetype:html
+inurl:signin/session filetype:jsp
+intitle:"Cp System" filetype:aspx
+inurl:manager filetype:action
+intitle:"Admin Config" filetype:php
+intitle:"index of" "parent directory" "dashboard"
+inurl:/admin/index.php
+intitle:"Controlpanel Portal" filetype:php
+inurl:cpanel/secure filetype:cgi
+intitle:"Manage Staff" filetype:cgi
+inurl:auth/config filetype:action
+inurl:manager/session filetype:jsp
+intitle:"Administrator User" filetype:asp
+intitle:"Admin Login" inurl:auth
+inurl:/cp/index.html
+inurl:/dashboard/index.jsp
+inurl:administrator/system filetype:php
+intitle:"Wp-admin Portal" filetype:aspx
+inurl:dashboard filetype:cfm
+intitle:"Signin Session" filetype:do
+inurl:signin/portal filetype:jsp
+intitle:"Wp-admin Config" filetype:action
+inurl:/cp/index.py
+inurl:manage/portal filetype:cfm
+inurl:manage/secure filetype:html
+inurl:admin filetype:asp
+intitle:"Login Page" inurl:administrator
+intitle:"Login Page"
+inurl:manager/user filetype:do
+inurl:manager filetype:html
+intitle:"Administrator Portal" inurl:backend
+intitle:"Dashboard Config" filetype:php
+intitle:"Admin System" filetype:asp
+inurl:cpanel/session filetype:action
+inurl:auth/session filetype:html
+intitle:"Login Page" inurl:portal
+intitle:"Portal Session" filetype:py
+inurl:/backend/index.aspx
+intitle:"index of /" "dashboard"
+inurl:admin/config filetype:action
+intitle:"Portal Secure" filetype:action
+intitle:"Signin Config" filetype:cfm
+inurl:/controlpanel/index.action
+intitle:"Cpanel Session" filetype:asp
+intitle:"Administrator System" filetype:html
+intitle:"Cpanel Staff" filetype:py
+intitle:"Auth Staff" filetype:cgi
+intitle:"Portal Portal" filetype:html
+inurl:controlpanel/config filetype:py
+intitle:"Control Panel Login" inurl:cpanel
+inurl:administrator/system filetype:aspx
+inurl:controlpanel filetype:action
+inurl:controlpanel/user filetype:asp
+intitle:"Cpanel User" filetype:html
+intitle:"Administrator User" filetype:html
+intitle:"Sign In" inurl:controlpanel
+inurl:admin/system filetype:asp
+inurl:wp-login.php -git -github
+inurl:login/staff filetype:jsp
+intitle:"Login Staff" filetype:do
+intitle:"Cpanel Portal" filetype:jsp
+inurl:auth/system filetype:action
+intitle:"Manage Secure" filetype:html
+inurl:auth/staff filetype:php
+inurl:/cpanel/index.action
+inurl:/controlpanel/index.aspx
+intitle:"Wp-admin Staff" filetype:py
+intitle:"Dashboard Config" filetype:do
+inurl:admin_login -git -github
+intitle:"Signin Session" filetype:cgi
+inurl:cp/config filetype:php
+intitle:"Admin Login" inurl:cp
+inurl:cpanel filetype:py
+inurl:controlpanel/secure filetype:aspx
+inurl:cpanel/user filetype:do
+inurl:admin/user filetype:py
+inurl:cp/portal filetype:aspx
+intitle:"Control Panel Login" inurl:administrator
+intitle:"Cpanel Config" filetype:py
+inurl:controlpanel/config filetype:jsp
+inurl:portal/staff filetype:py
+intitle:"Control Panel Login" inurl:controlpanel
+inurl:admin/staff filetype:asp
+inurl:signin/user filetype:do
+inurl:/backend/index.py
+intitle:"Backend Secure" filetype:do
+intitle:"Admin Login" inurl:controlpanel
+inurl:cp filetype:asp
+inurl:/portal/index.asp
+inurl:cpanel/system filetype:cgi
+intitle:"Cp System" filetype:php
+intitle:"Dashboard Staff" filetype:action
+intitle:"Administrator Portal" intext:"password"
+inurl:administrator filetype:py
+intitle:"Controlpanel Session" filetype:html
+intitle:"Admin Login" inurl:signin
+inurl:administrator/user filetype:jsp
+intitle:"Cp System" filetype:html
+intitle:"Login Page" inurl:auth
+inurl:wp-admin/system filetype:jsp
+inurl:cpanel/session filetype:php
+inurl:auth filetype:jsp
+intitle:"Controlpanel Portal" filetype:cfm
+inurl:/cpanel/index.asp
+inurl:cp/system filetype:html
+inurl:/cpanel/index.cfm
+intitle:"Staff Portal Login" inurl:administrator
+inurl:dashboard/staff filetype:php
+inurl:/admin/index.asp
+inurl:controlpanel/config filetype:do
+inurl:controlpanel filetype:php
+inurl:/cp/index.asp
+intitle:"Administrator Portal"
+intitle:"Cp User" filetype:html
+intitle:"Signin System" filetype:do
+inurl:signin filetype:jsp
+inurl:signin/session filetype:py
+inurl:login/portal filetype:jsp
+inurl:auth/config filetype:asp
+inurl:cp filetype:jsp
+inurl:/portal/index.action
+intitle:"Portal Session" filetype:aspx
+intitle:"Cp Portal" filetype:aspx
+inurl:manage filetype:aspx
+intitle:"Cpanel Session" filetype:cgi
+inurl:cpanel/portal filetype:jsp
+inurl:backend filetype:cgi
+inurl:controlpanel filetype:cgi
+inurl:backend/system filetype:cfm
+inurl:manage/staff filetype:php
+inurl:cp/session filetype:php
+inurl:cp/staff filetype:action
+inurl:wp-admin filetype:php
+intitle:"Staff Portal Login" inurl:controlpanel
+intitle:"Wp-admin User" filetype:html
+inurl:dashboard filetype:action
+inurl:portal/system filetype:action
+intitle:"index of /" "admin"
+intitle:"Controlpanel Portal" filetype:aspx
+inurl:manager/staff filetype:do
+inurl:cp filetype:html
+intitle:"Cpanel System" filetype:cfm
+inurl:/portal/index.jsp
+intitle:"Controlpanel User" filetype:cfm
+inurl:/controlpanel/index.html
+intitle:"Auth System" filetype:action
+inurl:/portal/index.php
+inurl:cpanel/config filetype:php
+intitle:"Wp-admin Config" filetype:html
+inurl:/signin/index.cgi
+inurl:cpanel/user filetype:php
+inurl:manage/system filetype:aspx
+intitle:"Administrator System" filetype:aspx
+intitle:"Dashboard Session" filetype:action
+inurl:/backend/index.cfm
+intitle:"Login Page" inurl:signin
+intitle:"Authentication Required" inurl:admin
+inurl:/manage/index.jsp
+inurl:dashboard/portal filetype:cgi
+intitle:"Admin User" filetype:py
+inurl:wp-admin/user filetype:jsp
+inurl:manage filetype:py
+inurl:/cp/index.cgi
+intitle:"Login Page" inurl:wp-admin
+inurl:/manager/index.action
+intitle:"Cpanel Session" filetype:php
+intitle:"Portal User" filetype:action
+inurl:controlpanel/system filetype:aspx
+inurl:portal/user filetype:action
+inurl:admin filetype:aspx
+inurl:/wp-admin/index.py
+intitle:"Portal Config" filetype:cfm
+inurl:signin filetype:do
+inurl:wp-admin/portal filetype:do
+intitle:"Manager Session" filetype:py
+inurl:manage/user filetype:html
+inurl:/portal/index.py
+intitle:"Administrator Portal" inurl:login
+inurl:dashboard/config filetype:py
+intitle:"Manager Session" filetype:aspx
+inurl:manager/session filetype:cfm
+intitle:"Authentication Required" inurl:signin
+intitle:"Admin Login"
+inurl:manager filetype:aspx
+intitle:"Control Panel Login" inurl:signin
+inurl:/auth/index.do
+intitle:"Control Panel Login" inurl:admin
+inurl:login filetype:action
+inurl:admin filetype:do
+inurl:/cpanel/index.jsp
+inurl:dashboard/staff filetype:html
+inurl:portal/config filetype:jsp
+inurl:auth filetype:cfm
+inurl:administrator filetype:action
+inurl:admin/system filetype:jsp
+intitle:"Administrator Portal" filetype:cfm
+inurl:manager filetype:php
+inurl:portal/portal filetype:html
+inurl:auth/config filetype:html
+inurl:cpanel/secure filetype:php
+intitle:"Controlpanel Secure" filetype:aspx
+inurl:backend/config filetype:py
+intitle:"Authentication Required"
+intitle:"Authentication Required" inurl:portal
+inurl:cpanel filetype:action
+intitle:"Portal User" filetype:asp
+intitle:"Manager Secure" filetype:php
+inurl:manager/session filetype:do
+intitle:"Cpanel Session" filetype:cfm
+inurl:admin/login
+inurl:auth/secure filetype:jsp
+inurl:manage/user filetype:cgi
+inurl:/administrator/index.aspx
+intitle:"Administrator Staff" filetype:py
+inurl:cp/system filetype:aspx
+inurl:admin/user filetype:asp
+inurl:portal/config filetype:aspx
+intitle:"Dashboard Staff" filetype:html
+intitle:"Wp-admin Secure" filetype:asp
+inurl:controlpanel filetype:cfm
+inurl:manager/config filetype:cgi
+intitle:"Cp Staff" filetype:cfm
+inurl:portal filetype:jsp
+intitle:"Wp-admin Secure" filetype:jsp
+inurl:dashboard/login
+inurl:cpanel/portal filetype:cfm
+inurl:cp/system filetype:php
+intitle:"Login Staff" filetype:cfm
+intitle:"Cp Secure" filetype:action
+intitle:"Wp-admin Staff" filetype:cgi
+inurl:signin/config filetype:cfm
+intitle:"Dashboard Portal" filetype:asp
+intitle:"Manager Portal" filetype:php
+intitle:"Dashboard Login" inurl:cp
+inurl:portal/secure filetype:html
+inurl:portal filetype:action
+inurl:login filetype:do
+intitle:"Admin Session" filetype:jsp
+intitle:"Admin User" filetype:asp
+intitle:"Cp Secure" filetype:do
+inurl:admin filetype:jsp
+inurl:controlpanel/portal filetype:do
+intitle:"index of /" "cpanel_filemanager"
+inurl:/login/index.py
+inurl:wp-admin filetype:action
+inurl:cpanel/system filetype:asp
+intitle:"Admin Portal" filetype:jsp
+inurl:signin filetype:cfm
+intitle:"Control Panel Login" inurl:manage
+inurl:secure/login
+inurl:/controlpanel/index.asp
+intitle:"Authentication Required" inurl:manage
+inurl:signin filetype:action
+inurl:/portal/index.cfm
+inurl:wp-admin/config filetype:html
+inurl:signin/system filetype:do
+inurl:dashboard filetype:aspx
+intitle:"Control Panel Login" inurl:login
+intitle:"Manager Secure" filetype:cfm
+inurl:admin_login
+inurl:signin filetype:php
+intitle:"Dashboard Login" inurl:dashboard
+intitle:"Manager Config" filetype:php
+inurl:/signin/index.jsp
+inurl:controlpanel filetype:html
+inurl:administrator filetype:aspx
+intitle:"Dashboard Login" inurl:portal
+intitle:"Auth Session" filetype:jsp
+inurl:login/secure filetype:cgi
+intitle:"Control Panel Login"
+intitle:"Controlpanel Staff" filetype:aspx
+inurl:backend/secure filetype:do
+inurl:/auth/index.cgi
+inurl:cp/staff filetype:cfm
+inurl:admin filetype:php
+inurl:/dashboard/index.do
+intitle:"Controlpanel System" filetype:asp
+intitle:"Controlpanel System" filetype:py
+inurl:administrator/system filetype:asp
+intitle:"Manager Config" filetype:cgi
+inurl:manager/portal filetype:php
+inurl:portal/session filetype:cgi
+inurl:/manager/index.cfm
+intitle:"Signin Secure" filetype:php
+inurl:dashboard filetype:asp
+inurl:dashboard/config filetype:asp
+inurl:backend/portal filetype:jsp
+inurl:/login/index.cgi
+inurl:/wp-admin/index.asp
+intitle:"Authentication Required" inurl:auth
+intitle:"Cpanel System" filetype:cgi
+inurl:/administrator/index.py
+inurl:manager/portal filetype:cfm
+intitle:"Auth Config" filetype:asp
+intitle:"Dashboard Staff" filetype:php
+inurl:backend/system filetype:jsp
+inurl:portal filetype:cfm
+inurl:manager/user filetype:jsp
+intitle:"Administrator Secure" filetype:html
+inurl:admin/user filetype:jsp
+intitle:"Cpanel Staff" filetype:cfm
+intitle:"Sign In" inurl:admin
+intitle:"Portal System" filetype:action
+intitle:"Backend Session" filetype:html
+inurl:/cp/index.action
+inurl:auth/portal filetype:aspx
+inurl:cp/user filetype:html
+inurl:cpanel filetype:asp
+intitle:"Auth Session" filetype:html
+inurl:cp/config filetype:cfm
+intitle:"Control Panel Login" inurl:manager
+intitle:"Administrator User" filetype:action
+inurl:manager/user filetype:aspx
+inurl:/manage/index.php
+inurl:/manage/index.cfm
+intitle:"Cp Portal" filetype:cfm
+intitle:"Sign In" intext:"password"
+inurl:backend/user filetype:php
+inurl:/manager/index.html
+intitle:"Authentication Required" inurl:administrator
+intitle:"Staff Portal Login" inurl:auth
+intitle:"Auth Secure" filetype:cfm
+intitle:"Cp Config" filetype:php
+intitle:"Portal Secure" filetype:html
+intitle:"Staff Portal Login" inurl:cp
+intitle:"Admin Login" intext:"password"
+inurl:/auth/index.cfm
+inurl:manage filetype:jsp
+inurl:signin/user filetype:asp
+intitle:"Sign In" inurl:cpanel
+inurl:/administrator/index.jsp
+inurl:/dashboard/index.asp
+intitle:"Administrator Portal" inurl:manager
+inurl:auth/config filetype:php
+intitle:"Admin Session" filetype:py
+inurl:cpanel/system filetype:py
+intitle:"Administrator Portal" inurl:manage
+intitle:"Staff Portal Login" inurl:manager
+intitle:"Dashboard Login" inurl:cpanel
+inurl:admin/portal filetype:aspx
+intitle:"index of" "parent directory" "controlpanel"
+intitle:"Manage Staff" filetype:php
+inurl:admin filetype:cgi
+inurl:auth filetype:action
+intitle:"Control Panel Login" inurl:cp
+inurl:wp-admin/portal filetype:aspx
+intitle:"Auth User" filetype:aspx
+intitle:"Wp-admin Staff" filetype:aspx
+inurl:admin/session filetype:php
+intitle:"Backend System" filetype:cgi
+inurl:login filetype:php
+inurl:/cp/index.php
+intitle:"Administrator Portal" inurl:dashboard
+inurl:manager filetype:cgi
+intitle:"Auth Secure" filetype:jsp
+intitle:"Authentication Required" inurl:manager
+inurl:manage filetype:cgi
+inurl:/administrator/index.php
+inurl:administrator filetype:jsp
+intitle:"Dashboard Login" inurl:wp-admin
+intitle:"Control Panel Login" inurl:dashboard
+inurl:portal/portal filetype:action
+inurl:/admin/index.html
+intitle:"Auth Config" filetype:action
+inurl:dashboard/staff filetype:cfm
+inurl:wp-admin filetype:cfm
+inurl:/wp-admin/index.html
+intitle:"Controlpanel User" filetype:asp
+inurl:login filetype:jsp
+intitle:"Wp-admin System" filetype:jsp
+intitle:"Manager Staff" filetype:do
+intitle:"Admin Session" filetype:cgi
+intitle:"Controlpanel Config" filetype:action
+inurl:cpanel/staff filetype:html
+inurl:login filetype:html
+intitle:"Dashboard Staff" filetype:cfm
+inurl:/dashboard/index.html
+inurl:signin/secure filetype:html
+inurl:administrator filetype:html
+inurl:cp/user filetype:php
+intitle:"Signin Secure" filetype:do
+inurl:portal/session filetype:aspx
+inurl:/admin/index.cfm
+inurl:cp filetype:cgi
+inurl:cp/secure filetype:jsp
+intitle:"Dashboard Portal" filetype:aspx
+intitle:"Administrator Session" filetype:do
+inurl:signin filetype:cgi
+intitle:"Cpanel User" filetype:cfm
+inurl:user/login
+intitle:"Authentication Required" inurl:login
+intitle:"Cp Session" filetype:php
+intitle:"Signin User" filetype:jsp
+inurl:administrator/system filetype:html
+inurl:dashboard/portal filetype:jsp
+intitle:"Control Panel Login" intext:"password"
+inurl:signin filetype:asp
+inurl:/dashboard/index.py
+inurl:wp-admin filetype:aspx
+intitle:"Cpanel Portal" filetype:do
+inurl:admin/config filetype:cgi
+intitle:"Dashboard Portal" filetype:do
+inurl:cpanel/config filetype:py
+inurl:user/login -git -github
+intitle:"Signin System" filetype:aspx
+inurl:/wp-admin/index.do
+inurl:auth/staff filetype:cgi
+intitle:"Admin Login" inurl:admin
+intitle:"Staff Portal Login" inurl:wp-admin
+inurl:/cp/index.jsp
+inurl:dashboard/portal filetype:aspx
+inurl:administrator/secure filetype:html
+inurl:/controlpanel/index.cfm
+intitle:"Staff Portal Login" inurl:cpanel
+inurl:/dashboard/index.aspx
+inurl:admin/portal filetype:jsp
+inurl:/cp/index.aspx
+inurl:/auth/index.asp
+intitle:"Auth System" filetype:asp
+inurl:backend filetype:php
+inurl:cp filetype:action
+inurl:/manage/index.action
+inurl:cp filetype:do
+inurl:controlpanel/staff filetype:jsp
+inurl:/portal/index.html
+inurl:/portal/index.cgi
+intitle:"Controlpanel System" filetype:cgi
+intitle:"Wp-admin Staff" filetype:cfm
+inurl:/login/index.aspx
+intitle:"Administrator System" filetype:php
+intitle:"Login Page" inurl:controlpanel
+inurl:/cpanel/index.php
+inurl:/wp-admin/index.action
+intitle:"Manager Portal" filetype:cfm
+inurl:controlpanel/staff filetype:aspx
+inurl:dashboard/user filetype:action
+inurl:auth/system filetype:asp
+intitle:"Login Page" inurl:login
+intitle:"Authentication Required" inurl:controlpanel
+intitle:"Controlpanel Portal" filetype:do
+intitle:"Cp Config" filetype:cfm
+inurl:backend filetype:asp
+inurl:dashboard/config filetype:php
+inurl:dashboard/config filetype:do
+inurl:manage/staff filetype:asp
+intitle:"Portal Secure" filetype:do
+intitle:"Wp-admin Portal" filetype:do
+inurl:/auth/index.aspx
+inurl:cpanel/user filetype:html
+inurl:controlpanel/system filetype:py
+intitle:"Administrator Portal" inurl:signin
+inurl:signin/secure filetype:cfm
+inurl:wp-admin/staff filetype:cgi
+inurl:login filetype:cgi
+intitle:"Dashboard Login" inurl:signin
+intitle:"index of" "parent directory" "cpanel_filemanager"
+inurl:signin/user filetype:html
+intitle:"Admin Login" inurl:login
+inurl:cp filetype:cfm
+inurl:login/staff filetype:cfm
+inurl:dashboard/user filetype:do
+inurl:cp/system filetype:asp
+intitle:"Portal Config" filetype:jsp
+inurl:/backend/index.action
+inurl:controlpanel/config filetype:html
+intitle:"Manage System" filetype:action
+intitle:"Controlpanel Secure" filetype:py
+inurl:/auth/index.html
