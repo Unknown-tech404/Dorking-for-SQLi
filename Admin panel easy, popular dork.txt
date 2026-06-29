@@ -1,0 +1,261 @@
+//================= Credit: 𝐃𝐚𝐫𝐤𝐏𝐫𝐢𝐬𝐦 ===============================//
+
+Index of /admin
+allintitle :"index of /admin"
+Site:site.com “admin”
+intitle: index of admin login
+intitle:admin login
+inurl:admin/index.php
+inurl:administrator.php
+inurl:login.php
+inurl:admin/index.php
+inurl:admin/add_admin.php
+inurl:admin/addaccount.php
+inurl:admin/additem.php
+inurl:admin/addpage.php
+inurl:admin/addshow.php
+inurl:admin/addstore.php
+inurl:admin/addstory.php
+inurl:admin/admin_area.php
+inurl:admin/admin_detail.php
+inurl:admin/manage.php
+inurl:admin/product_add.php
+inurl:admin/upload.php
+inurl:admin/index.php
+inurl:adminPanel/index.php
+inurl:administrator.php
+inurl:login.php
+inurl:adminlogin.aspx
+inurl:login.aspx
+inurl:admin/add_admin.asp
+inurl:admin/addadmin.asp
+inurl:admin/addarticle.asp
+inurl:admin/addcat.asp
+inurl:admin/addfile.asp
+inurl:admin/addinfo.asp
+inurl:admin/addjob.asp
+inurl:admin/addmember.asp
+inurl:admin/addnews.asp
+inurl:admin/addproduct.asp
+inurl:admin/adminuser.asp
+inurl:admin/cp.asp
+inurl:admin/gallery.asp
+inurl:admin/image.asp
+inurl:admin/productadd.asp
+inurl:admin/productshow.asp
+inurl:admin/upload.asp
+inurl:admin/user.asp
+allinurl:admin/addfile.???
+inurl:admin/addforum.???
+inurl:admin/add_Products.???
+inurl:admin/addblog.????
+inurl:admin/addcat.???
+inurl:admin/addcity.???
+inurl:admin/addcode.???
+inurl:admin/addcompany.???
+inurl:admin/addcontact.???
+inurl:admin/addcountry.???
+inurl:admin/addemployee.???
+inurl:admin/addgame.???
+inurl:admin/addjob.??
+inurl:admin/addlinks.???
+inurl:admin/addmedia.???
+inurl:admin/addmovie.???
+inurl:admin/addpassword.???
+inurl:admin/addpic.???
+inurl:admin/addpost
+inurl:admin/addproject.???
+inurl:admin/addsale.???
+inurl:admin/addschool.???
+inurl:admin/addstate.???
+inurl:admin/admin.???
+inurl:admin/admincp.???
+inurl:admin/payment.???
+inurl:admin/selectitem.???
+inurl:admin/settings.???
+inurl:admin/showbook.???
+inurl:admin/viewmanager.???
+inurl:admin/viewproduct.???
+inurl:user/emp.???
+inurl:account.php”
+inurl:login.asp
+inurl:login.aspx
+inurl:adminlogin.aspx
+inurl:administrator.asp
+inurl:adminlogin.aspx
+inurl:admin.php
+inurl:admin/account.php
+inurl:admin/controlpanel.php
+inurl:admin/cp.php
+inurl:admin/home.php
+inurl:admin/index.php
+inurl:admin/login.php
+inurl:admin1.php
+inurl:admin2.php
+inurl:admincontrol.php
+inurl:administr8.php
+inurl:administration.php
+inurl:administrator.php
+inurl:administrator/account.php
+inurl:administrator/index.php
+inurl:administrator/login.php
+inurl:adminpanel.php
+inurl:admins.php
+inurl:controlpanel.php
+inurl:cp.php
+inurl:moderator/admin.php
+index of webadmin
+Site:.co.uk inurl:admin
+Site:.uk inurl:admin
+site:.in index of admin
+Inurl:/admin/login.php
+Inurl:/admin/login.html
+inurl:fileadmin.html
+inurl:bb-admin/admin.html
+inurl:admin/adminLogin.htm
+inurl:admin/controlpanel.htm
+inurl:admin/login.htm
+inurl:admin1.htm
+site:target.com inurl:admin | inurl:administrator | inurl:adm | inurl:login | inurl:l0gin | inurl:wp-login
+
+
+inurl:wp-login
+
+inurl:login
+
+inurl:user-login
+
+inurl:signin
+
+inurl:sign-in
+
+inurl:auth
+
+inurl:authentication
+
+
+inurl:"/wp-login.php?action=lostpassword"
+
+
+inurl:& intext:admin intext:login
+
+
+site:password.*.* intitle:"login"
+
+site:portal.*.* intitle:"login"
+
+site:user.*.* intitle:"login"
+
+site:sftp.*.* intitle:"login"
+
+site:admin.*.* intitle:"login"
+
+
+"Joomla! Administration Login" inurl:"/index.php"
+
+intext:Joomla inurl:index.php/login
+
+inurl:/administrator/index.php
+
+
+inurl:/administrator/index.php?autologin=1
+
+
+intitle:"Grafana" inurl:"/login"
+
+intitle:"Grafana" "Forgot your password"
+
+inurl:login "Welcome to Grafana"
+
+
+intitle:"Kibana" inurl:"/login"
+
+intitle:"Elastic" inurl:"/login"
+
+
+intitle:"Jenkins" inurl:"/login"
+
+intitle:"Jenkins" "Sign in"
+
+
+intitle:"GitLab" inurl:"/users/sign_in"
+
+intitle:"GitHub Enterprise" inurl:"/login"
+
+
+intitle:"Keycloak" inurl:"/auth"
+
+intitle:"Keycloak" "Account Management"
+
+
+inurl:/auth/login
+
+inurl:/auth/signin
+
+inurl:/oauth/login
+
+inurl:/oauth/authorize
+
+inurl:/oauth2/login
+
+
+inurl:/login.jsp
+
+inurl:/admin/login.jsp
+
+inurl:/carbon/admin/login.jsp
+
+
+inurl:/webvpn.html "login"
+
+inurl:/remote/login
+
+inurl:/vpn/login
+
+intitle:"SSL VPN" "Login" 
+
+
+inurl:/portal/login
+
+inurl:/account/login
+
+inurl:/customer/account/login
+
+inurl:/user/account/login
+
+
+inurl:/servicedesk/customer/user/login
+
+inurl:/pro_users/login
+
+inurl:/eftclient/account/login.htm
+
+
+inurl:"/?q=user/password/"
+
+inurl:"/user/reset"
+
+
+inurl:/phpmyadmin
+
+inurl:/phpmyadmin/index.php
+
+inurl:/phpmyadmin/user_password.php
+
+
+intitle:"Admin Panel" inurl:login
+
+intitle:"Dashboard Login"
+
+
+"login" "user" "password"
+
+
+intext:"IMail Server Web Messaging" intitle:"login"
+
+intext:"HostingAccelerator" intitle:"login" +"Username" -"news" -demo
+
+
+"Login Pages" "inurl:login"
+
+"Please sign in" "login"
